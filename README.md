@@ -4,5 +4,5 @@ This repository contains resources for my paper, *The Consequences of AI Trainin
 
 - **Data**: Anonymized data used in the paper.
 - **Analysis**: R scripts for all experiments, including a helper function.
-- **Experiments**: Zip files for each experiment, coded using jsPsych (JavaScript, HTML, and CSS).
+- **Task Code**: Zip files for each experiment, coded using jsPsych (JavaScript, HTML, and CSS).
 
