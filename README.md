@@ -1,2 +1,8 @@
-# consequences_of_AI_training
-This is the repository for my paper, "The consequences of AI training on human decision making". 
+# Summary
+
+This repository contains resources for my paper, *The Consequences of AI Training on Human Decision-Making*. It includes:
+
+- **Data**: Anonymized data used in the paper.
+- **Analysis**: R scripts for all experiments, including a helper function.
+- **Experiments**: Zip files for each experiment, coded using jsPsych (JavaScript, HTML, and CSS).
+
