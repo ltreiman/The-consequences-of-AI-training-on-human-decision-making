@@ -7,4 +7,5 @@ This repository contains resources for my paper, *The Consequences of AI Trainin
 - **Task Code**: Zip files for each experiment, coded using jsPsych (JavaScript, HTML, and CSS).
 
 A link to the paper can be found here: https://doi.org/10.1073/pnas.2408731121
+
 OSF Repository can be found here: https://osf.io/b7w5c/
