@@ -1,0 +1,315 @@
+"","id","age","gender","training_condition","outcome","money_won","time_elapsed","strategy","know_ug","ug_strategy"
+"1","id0001",0,"Question not asked","training_self",1,0.15,434005,"no I just accepted all offers","no",NA
+"2","id0002",0,"Question not asked","training_others",6,0.9,876972,"i had no strategies","yes","to reject unfair splits often enough to induce the proposer to always make a fair offer"
+"3","id0005",0,"Question not asked","control",6,0.9,337400,"I picked offers that gave me the most money","Yes",NA
+"4","id0006",0,"Question not asked","training_self",4,0.6,301597,"Always choose the bonus.","No",NA
+"5","id0007",0,"Question not asked","training_self",6,0.9,318429,"3 out of 7 was OK","no",NA
+"6","id0008",0,"Question not asked","training_others",5,0.75,509781,"when its 1 I rejected  it","yes","its nice playing the game "
+"7","id0009",0,"Question not asked","training_others",5,0.75,308989,"Accepting everything to avoid getting $0.","No",NA
+"8","id0010",0,"Question not asked","training_others",6,0.9,317440,"I accepted all offers where I would get $4 or more.","No","N/A"
+"9","id0011",0,"Question not asked","training_self",6,0.9,308573,"as long as what i got was higher than 3 i accepted","no","na"
+"10","id0012",0,"Question not asked","training_self",6,0.9,382811,"I decided to accept everything so I wouldn't miss out on a bonus like I did the first time around, though I did reject the super low offers","No",NA
+"11","id0013",0,"Question not asked","training_self",0,0,338885,"accept three or higher","no",NA
+"12","id0014",0,"Question not asked","training_others",5,0.75,459443,"Similar to the last time, I chose to accept all offers that offered me ANY amount of money. ","No",NA
+"13","id0015",0,"Question not asked","control",5,0.75,355160,"If it was $1 or $2 for me, I rejected it. I accidently accepted one by hitting the f key instead of the j key.  ","no","na"
+"14","id0016",0,"Question not asked","training_others",1,0.15,281414,"same as last time","no",NA
+"15","id0017",0,"Question not asked","training_others",6,0.9,284130,"I accepted all offers to maximize the chance of receiving a bonus.","No.",NA
+"16","id0019",0,"Question not asked","training_others",5,0.75,339790,"I just accepted all the offers because something was better than nothing","no",NA
+"17","id0020",0,"Question not asked","training_others",1,0.15,317203,"no","no",NA
+"18","id0023",0,"Question not asked","training_self",0,0,429041,"I was pickier with the AI's offers, and accepted all real people's offers.","Yes","Offer fair outcomes and accept all offers. "
+"19","id0024",0,"Question not asked","control",0,0,547844,"I didn't accept anything where the offer was lower than $4.","no",NA
+"20","id0025",0,"Question not asked","training_self",0,0,362841,"I accepted $4 or more","no",NA
+"21","id0026",0,"Question not asked","control",0,0,277636,"I tried to choose offers that were a more even split.","No",NA
+"22","id0029",0,"Question not asked","training_self",0,0,352995,"not really","no","na"
+"23","id0030",0,"Question not asked","training_self",5,0.75,270185,"Anything at or above $4 for me was accepted","no",NA
+"24","id0031",0,"Question not asked","control",0,0,329383,"Same as before - I rejected offers that weren't fair to me up until 6/4","No",NA
+"25","id0032",0,"Question not asked","training_self",0,0,328775,"I wanted to accept offers where I would receive at least $3 and reject the offers that were only for $1 or $2.","No I have not",NA
+"26","id0033",0,"Question not asked","training_self",2,0.3,527919,"none","no","na"
+"27","id0034",0,"Question not asked","control",5,0.75,293665,"Accepted offers within 20% of equality.","No","N/A"
+"28","id0035",0,"Question not asked","control",6,0.9,248363,"equal or in my favor ONLY","no",NA
+"29","id0037",0,"Question not asked","training_others",1,0.15,247154,"Its better to earn any amount than 0","yes",NA
+"30","id0038",0,"Question not asked","training_self",1,0.15,378914,"I accepted all offers since I was not training the AI and it was the only way to ensure I got a bonus of some amount. ","No",NA
+"31","id0039",0,"Question not asked","training_others",6,0.9,283498,"I only rejected offers that were unfair i.e. 2 dollars or more off.","No",NA
+"32","id0040",0,"Question not asked","training_others",4,0.6,338477,"I accepted deals that were close to50/50 and rejected those that were too lopsided","no","na"
+"33","id0041",0,"Question not asked","training_self",0,0,283683,"I dont understand this study. Why wouldnt I just say yes to everything to get the bonus? Two times now with honest answers and no bonus. ","No",NA
+"34","id0042",0,"Question not asked","training_others",0,0,498259,"N/A","No","N/A"
+"35","id0043",0,"Question not asked","training_others",2,0.3,411959,"I accepted any offer that was better than receiving a 9:1 split. ","no",NA
+"36","id0044",0,"Question not asked","training_others",0,0,393454,"If the offer was at least evenly split, I would accept the offer.","no",NA
+"37","id0045",0,"Question not asked","training_others",5,0.75,300425,"no","yes",NA
+"38","id0046",0,"Question not asked","control",6,0.9,634012,"I accepted all offers over $2, and accepted one offer of $2 from a participant, but not from AI","No",NA
+"39","id0047",0,"Question not asked","control",2,0.3,355558,"I accepted everything that was over $1","no",NA
+"40","id0049",0,"Question not asked","control",2,0.3,348775,"Winning something was better than nothing so I accepted them all","No",NA
+"41","id0050",0,"Question not asked","training_others",4,0.6,330613,"As long as it was close to even, I accepted.","no",NA
+"42","id0051",0,"Question not asked","training_others",0,0,402230,"I tried to pick ones that were equal or benefitted me","no",NA
+"43","id0052",0,"Question not asked","control",5,0.75,362193,"I accepted offers that were equal, near equal, or higher than the A's or other particiapant's offer. I rejected offers that were significantly lower for me than the the AI or other person. I wanted to get the most money possible.","No",NA
+"44","id0054",0,"Question not asked","control",0,0,314716,"no","no","na"
+"45","id0056",0,"Question not asked","control",5,0.75,349327,"I followed my gut","no",NA
+"46","id0057",0,"Question not asked","control",5,0.75,276453,"I chose the offer that benefited me the most ","no",NA
+"47","id0058",0,"Question not asked","training_self",2,0.3,372199,"I wanted to receive money each offer.","No",NA
+"48","id0059",0,"Question not asked","training_self",5,0.75,801518,"I decide to not go lower than $4 dollars on any offer.","No, I have not.",NA
+"49","id0060",0,"Question not asked","control",6,0.9,335283,"no","no","na"
+"50","id0061",0,"Question not asked","training_others",6,0.9,303228,"accept everything since it wasn't trayining","no",NA
+"51","id0062",0,"Question not asked","control",4,0.6,307926,"trying to do fairness ",NA,NA
+"52","id0063",0,"Question not asked","control",2,0.3,371625,"i accepted prolific user oppent that were even or better for me","no",NA
+"53","id0064",0,"Question not asked","control",0,0,392751,"Tried to focus on which ones would benefit me but apparently I got it wrong lol (bonus wise)","No",NA
+"54","id0065",0,"Question not asked","training_others",0,0,305091,"depending if my amount was higher or equal i accepted","no","na"
+"55","id0066",0,"Question not asked","training_others",4,0.6,279455,"typically if a prolific participant offered me $3 or more i would accept","No",NA
+"56","id0068",0,"Question not asked","training_self",0,0,336741,"I determined the lowest amount that I would accept and rejected anything lower than that.","No",NA
+"57","id0070",0,"Question not asked","training_self",6,0.9,339158,"accept everything that way at least one of us won something ","No",NA
+"58","id0071",0,"Question not asked","training_others",5,0.75,337989,"no","no",NA
+"59","id0072",0,"Question not asked","training_self",6,0.9,289537,"Since it was not training the AI at all, there was no reason to reject any offer. At least if I accept it then I get something instead of nothing.","No",NA
+"60","id0073",0,"Question not asked","training_others",5,0.75,322888,"anything $4 and over","no",NA
+"61","id0074",0,"Question not asked","training_self",6,0.9,325079,"I only accepted amounts over $5 to increase winnings.","No",NA
+"62","id0075",0,"Question not asked","control",0,0,404228,"I started with the strategy of accepting all offers to earn at least some money. About 2/3 of the way through I started to reject some offers and now I have earned $0.","No",NA
+"63","id0076",0,"Question not asked","control",0,0,378451,"only accept 5 and higher","no","accept every offer to get something is better than nothing?"
+"64","id0077",0,"Question not asked","control",6,0.9,391785,"I accepted anything over $3.","Yes.",NA
+"65","id0078",0,"Question not asked","training_self",6,0.9,413359,"I honestly just accepted any offer from my opponent, for any chance of a bonus. I am satisfied and grateful for the bonus payment. ","No",NA
+"66","id0079",0,"Question not asked","training_self",3,0.45,413723,"After the first couple trials I realized it was better to get something than nothing. ","No",NA
+"67","id0080",0,"Question not asked","training_others",4,0.6,471470," I thought ""would I rather reject this and get $0?"" and sometimes that answer was yes","no","na"
+"68","id0081",0,"Question not asked","training_others",0,0,287435,"I don't accept anything less than 50/50 offers","No","An ultimatum is given to see if people are pressured into a certain response."
+"69","id0082",0,"Question not asked","control",5,0.75,336730,"If I reject it then I get nothing, so accept anything because I will at least get something, even if the division doesn't seem fair. ","no",NA
+"70","id0084",0,"Question not asked","control",1,0.15,379009,"Better to accept something, if not accepting means no one gets anything.","no",NA
+"71","id0086",0,"Question not asked","training_self",3,0.45,254902,"I accepted everything because even 1 dollar is better than 0","no",NA
+"72","id0087",0,"Question not asked","control",2,0.3,339610,"No strategies","No",NA
+"73","id0088",0,"Question not asked","control",6,0.9,268004,"When I played previously, I rejected offers a lot. I got 0. Seemed to make sense to accept more.","yes","unsure"
+"74","id0089",0,"Question not asked","training_self",5,0.75,791195,"I accepted the offer, which was $2 and above.","Yes.","The optimal strategy in the ultimatum game typically involves offering a fair split to ensure the other player accepts the offer. This not only maximizes your own payoff but also maintains a positive reputation for future interactions. However, context matters, and depending on the perceived fairness norms and the risk tolerance of the other player, slight deviations from a perfectly equitable split might be beneficial."
+"75","id0090",0,"Question not asked","training_others",2,0.3,350584,"I accepted all offers because last time I only accepted when it was 4 and over and I didn't win anything.","I don't believe so.","na"
+"76","id0092",0,"Question not asked","training_others",0,0,341854,"I just chose what would be the msot fair profits for each participant.","No",NA
+"77","id0093",0,"Question not asked","training_others",2,0.3,313006,"I accepted all offers because if I rejected some, I wouldn't have gotten any money.","yes",NA
+"78","id0094",0,"Question not asked","control",4,0.6,351548,"I chose offers higher than $3","no",NA
+"79","id0095",0,"Question not asked","training_self",6,0.9,322607,"I took all offers as last test I rejected and didn't get a bonus","no",NA
+"80","id0096",0,"Question not asked","training_others",5,0.75,261193,"If it was a human participant and they really low balled me I rejected because I felt it was selfish of them.","No",NA
+"81","id0097",0,"Question not asked","training_others",3,0.45,350274,"no","no",NA
+"82","id0098",0,"Question not asked","training_others",4,0.6,387163,"I had to be earning at least $3 in order to accept the offer","yes",NA
+"83","id0099",0,"Question not asked","control",4,0.6,299665,"I just tried to be fair as possible","no",NA
+"84","id0100",0,"Question not asked","training_others",5,0.75,271091,"anything is better than 0","no","na"
+"85","id0101",0,"Question not asked","training_self",5,0.75,334616,"2 bucks or more","no","na"
+"86","id0102",0,"Question not asked","training_others",2,0.3,369781,"I accepted all offers this time because I wanted so sort of bonus unlike last time.  Last time I chose not to go with low offers because I was training AI and I wanted the AI to be fair.  This time I wasn't so it did not matter to me. ","no",NA
+"87","id0103",0,"Question not asked","control",5,0.75,238414,"I generally accepted the offer if I made at least $3","No",NA
+"88","id0104",0,"Question not asked","training_self",2,0.3,472666,"I accepted  every offer so I would get the random bonus no matter what","no",NA
+"89","id0105",0,"Question not asked","control",2,0.3,405109,"Yes, I accepted all offers to guarantee I would get a bonus.","no",NA
+"90","id0106",0,"Question not asked","control",4,0.6,614355," ","No","Very good"
+"91","id0107",0,"Question not asked","training_others",0,0,306075,"I felt that an offer of $1 was too low and if my calculations were right, it would yield very little bonus. So I rejected these offers.","NO",NA
+"92","id0108",0,"Question not asked","training_others",0,0,292866,"None.","No",NA
+"93","id0109",0,"Question not asked","control",4,0.6,262121,"accept all because the chance of the reward","no","accept all?"
+"94","id0111",0,"Question not asked","training_others",3,0.45,423378,"I accepted all offers. I didn't see any reason to reject any, figuring something was better than nothing. Since I wasn't training the AI this time there was no reason to try to influence future transactions by rejecting any offers. That is, if I knew rejecting a bad offer might help me get fairer results in later rounds I would have an incentive to reject unfair offers. But that wasn't the case in this trial.","no",NA
+"95","id0112",0,"Question not asked","training_self",4,0.6,278071,"i would take no less than $3","no",NA
+"96","id0113",0,"Question not asked","training_others",0,0,1372732,"No","No",NA
+"97","id0114",0,"Question not asked","training_self",3,0.45,936326,"I tried to take reasonable offers","yes","to accept all offers"
+"98","id0115",0,"Question not asked","training_others",6,0.9,374067,"I was much less tolerant for the human's offer since it involves audacity and greed. ","no",NA
+"99","id0116",0,"Question not asked","training_self",6,0.9,435342,"no","no",NA
+"100","id0117",0,"Question not asked","control",5,0.75,563890,"no","no","na"
+"101","id0118",0,"Question not asked","training_others",3,0.45,351390,"I accepted all.  If there was no training, this was my best chance to get a bonus","no",NA
+"102","id0119",0,"Question not asked","training_others",5,0.75,424679,"no, just looked at the fariness of the offers","yew","To take as many fair offers as possible."
+"103","id0120",0,"Question not asked","training_self",4,0.6,257861,"No strategies","No i don't",NA
+"104","id0121",0,"Question not asked","training_self",0,0,453533,"I would accept no less than $4.  This is my criteria for rewarding the generosity of the offer.","No","I assume it is a game where you have the choice to ""take it or leave it"""
+"105","id0122",0,"Question not asked","control",1,0.15,290729,"accept every offer","no",NA
+"106","id0123",0,"Question not asked","control",3,0.45,272274,"If they were too greedy I rejected the offer","No",NA
+"107","id0124",0,"Question not asked","control",3,0.45,291417,"Accept all of them","No",NA
+"108","id0126",0,"Question not asked","training_self",6,0.9,385620,"I accepted everything but the offer for me to get $1 ","no",NA
+"109","id0127",0,"Question not asked","training_others",6,0.9,404667,"I figure I would accept all offers even if the other was greedy. Still more than I had before","not since last study","I just think its better to accept the offer"
+"110","id0128",0,"Question not asked","training_others",0,0,312791,"No","No",NA
+"111","id0129",0,"Question not asked","training_others",5,0.75,414495,"I set the a low limit that I was only willing to accept and chose those that hit that limit.","no",NA
+"112","id0130",0,"Question not asked","training_others",3,0.45,520238,"i choose based o my kowledge about the game ","No",NA
+"113","id0132",0,"Question not asked","training_others",6,0.9,390359,"No, I just wanted to maximize what I made.","no","na"
+"114","id0133",0,"Question not asked","control",5,0.75,349287,"I realized that the more I rejected, the less likely I was to receive any money, so I accepted all of them","No",NA
+"115","id0134",0,"Question not asked","control",6,0.9,295072,"Anything less then $4 that I would receive I rejectr","No",NA
+"116","id0135",0,"Question not asked","training_self",1,0.15,338900," ","No ","Very perfect"
+"117","id0136",0,"Question not asked","training_self",6,0.9,335167,"I accepted anything that was $4 and above.","no",NA
+"118","id0137",0,"Question not asked","training_others",4,0.6,460304,"accept i get something, reject nothing, ","no",NA
+"119","id0139",0,"Question not asked","training_self",6,0.9,346556,"I just tried to accept what was fair and reject offers that were very one sided.","no","N/A"
+"120","id0140",0,"Question not asked","control",3,0.45,363402,"I don't accept offers under 3 dollars.","no",NA
+"121","id0141",0,"Question not asked","control",1,0.15,543417,"I had a different strategy then the last study. In the first study, I tried to punish a person or AI if they gave an insulting offer, like $1 for me. I would punish them by rejecting the offer for both of us. This time though, I accepted all offers, even the insulting ones, because I was out for myself only. Why make myself loose out on a potential bonus, which would be more than I would earn otherwise. It wasn't worth it to punish the opponent, because I was punishing myself in the process.","no","Accept all offers"
+"122","id0142",0,"Question not asked","control",5,0.75,274016,"If I reject an offer I could lose everything.","No",NA
+"123","id0143",0,"Question not asked","training_others",0,0,555545,"yes accept nothing less than 40%","no",NA
+"124","id0144",0,"Question not asked","control",0,0,499434,"I was consistent thru out the study to only accept offers that were equal of in my favor","sounds familiar but not sure","a decision making game of some sort but not completely sure"
+"125","id0146",0,"Question not asked","control",2,0.3,276868,"Accept everything since I received nothing last time","No",NA
+"126","id0147",0,"Question not asked","training_self",0,0,367503,"I accepted any offer at or above 50%. ","No",NA
+"127","id0148",0,"Question not asked","training_others",6,0.9,1277462,"Accept AI offers, reject most of the human's low offer.","no",NA
+"128","id0149",0,"Question not asked","training_self",0,0,286176,"I tried to get an equal amount or more than the person makingt he offer, but I was willing to except less as long as it wasn't drastically less.","No",NA
+"129","id0150",0,"Question not asked","training_others",0,0,384693,"no","no",NA
+"130","id0151",0,"Question not asked","control",0,0,306317,"Accept $4 or more","no",NA
+"131","id0152",0,"Question not asked","training_others",5,0.75,300366,"I only accepted offers where I earned at least five dollars.","No",NA
+"132","id0153",0,"Question not asked","training_others",0,0,351221,"no","no",NA
+"133","id0154",0,"Question not asked","training_others",6,0.9,440423,"Not really.","No",NA
+"134","id0155",0,"Question not asked","control",0,0,397247,"I was trying to maximize the liklihood that a trial that was selected was a accepted offer to this time I accepted offers that were unfair like they keep 7 and I keep 3. But I did not take $2 or $1","No, I have not. ",NA
+"135","id0157",0,"Question not asked","training_others",5,0.75,337741,"Took anything $3 or above from either human or AI","no",NA
+"136","id0158",0,"Question not asked","training_self",5,0.75,695291,"The closest to the median amount for myself. ","No",NA
+"137","id0159",0,"Question not asked","training_self",2,0.3,396949,"I find the offer reasonable; so I decided to accept the offer.",NA,NA
+"138","id0160",0,"Question not asked","training_others",0,0,305524,"don't accept less than 4","no","n/a"
+"139","id0161",0,"Question not asked","training_others",6,0.9,267885,"I wanted to win something so I accepted most offers","No",NA
+"140","id0162",0,"Question not asked","control",0,0,288344,"Any offer that was either in my favor or equal (or within $1 of it), I accepted.","No",NA
+"141","id0163",0,"Question not asked","control",2,0.3,304798,"I wanted something so I accepted most offers","yes","accept all offers"
+"142","id0164",0,"Question not asked","training_others",6,0.9,511704,"I picked a number I would settle for, knowing that if one was picked, 15% of that would be decent enought for me. I also kept in mind that I'd be trainging AI, so I didn't want to train him to offer extremely low offers.","No","I think the optimal strategy would be to make sure to pick in the best interest of self, rejecting all unfair offers until the person offering starts making them fair enough for both sides to be advantageous."
+"143","id0165",0,"Question not asked","training_others",2,0.3,395355,"I just figured since I get nothing if I reject, I might as well accept all of them so that I can at least get something, even if I feel like I'm being taken advantage of","No",NA
+"144","id0166",0,"Question not asked","training_self",5,0.75,300266,"I accepted all offers so that no matter which was randomly chosen I would get a bonus of some sort.","no",NA
+"145","id0167",0,"Question not asked","training_self",0,0,393016,"No I just went with what I felt doing this session.","No ",NA
+"146","id0168",0,"Question not asked","training_others",5,0.75,492148,"I remembered that it was wish to accept any offer that was reasonable; even if the other person earned more.  This was better than earning nothing.","No",NA
+"147","id0169",0,"Question not asked","control",5,0.75,436446,"I accepted only those offers that made sense to me. I based my choices on fairness.","No.",NA
+"148","id0170",0,"Question not asked","control",1,0.15,329289,"no, i just accepted everything because last time i tried to be more fair and got $0 bonus","no","na"
+"149","id0171",0,"Question not asked","training_self",0,0,427160,"I did not use any specific strategy.","No",NA
+"150","id0173",0,"Question not asked","control",5,0.75,388574,"not sure","no",NA
+"151","id0174",0,"Question not asked","training_others",0,0,408133,"I only accepted offers 4-6 or better.","Yes","Yes"
+"152","id0175",0,"Question not asked","training_self",1,0.15,412717,"I accepted all so I could get something extra out of it.","no",NA
+"153","id0176",0,"Question not asked","training_self",0,0,268853,"I required getting at least $5 of the split to accept the offer","No",NA
+"154","id0177",0,"Question not asked","training_others",5,0.75,348767,"to accept most because a little is better than nothing","no",NA
+"155","id0178",0,"Question not asked","training_self",2,0.3,312225,"Keep everything above $2 or $1 for me.","No",NA
+"156","id0179",0,"Question not asked","control",0,0,292036,"if the offer was fair to both of us I accepted it. If it was unfair or unethical i rejected it.","no","na"
+"157","id0180",0,"Question not asked","training_self",0,0,389634,"The offers that were extremely low I did not accept","No",NA
+"158","id0181",0,"Question not asked","training_self",3,0.45,332434,"accept all offers with money for me","no",NA
+"159","id0182",0,"Question not asked","control",2,0.3,376590,"I would accept any offer so I don't deny anyone a bonus.","No.",NA
+"160","id0183",0,"Question not asked","control",2,0.3,341858,"There was no reason to ever reject an offer, because it would mean I'd get nothing at all - anything is better than nothing at all, even if I wanted to punish the other player. ","I don't think so",NA
+"161","id0184",0,"Question not asked","training_others",4,0.6,289338,"I rejected offers of less than 10%","No",NA
+"162","id0185",0,"Question not asked","control",1,0.15,391398,"I accepted all offers because otherwise I might win nothing","no","was what I just played the ultimatum game? If so the strategy is to win something. Even a little is something I wasn't getting before. If this wasn't the ultimatum game then I don't know"
+"163","id0186",0,"Question not asked","training_self",1,0.15,777375,"The game theory response to this test would likely be to say yes to all offers as I have nothing to lose, though Iâ€™m rusty on game theory. If each and every transaction has a dollar value for me, Iâ€™m guaranteed to get a bonus. So, I said yes to anything over zero. The first time, I tried to train the AI to be generous. That didnâ€™t appear to be effective. With no AI training involved, I said yes to all offers. Interesting study.","no",NA
+"164","id0187",0,"Question not asked","training_self",4,0.6,387433,"Yes, I decided my cutoff point was accepting 4 dollars.  I wanted to train the AI to be fair when making offers, and a 7 to 3 offer or less is not fair.  ","I don't think so, not sure.",NA
+"165","id0188",0,"Question not asked","training_self",0,0,742905,"Strategy based on profit","Yes","A game in which the first player proposes a division of a 'pie' with the second player, who may either accept or reject the offer by other"
+"166","id0189",0,"Question not asked","training_others",5,0.75,295895,"No strategy, I just accepted every offer so that I would get a bonus.","no",NA
+"167","id0190",0,"Question not asked","training_self",0,0,406116,"accept if 50% or over but I messed up twice","no","na"
+"168","id0191",0,"Question not asked","training_self",2,0.3,484612,"just accepted all, id rather get something than nothing","I dont know ","na"
+"169","id0192",0,"Question not asked","control",4,0.6,263700,"Something is better than nothing. It makes sense to me.","no",NA
+"170","id0193",0,"Question not asked","control",4,0.6,398103,"No strategies, just had an amount I would go below to accept for myself.","No",NA
+"171","id0194",0,"Question not asked","control",1,0.15,340954,"anything is better than nothing","no",NA
+"172","id0195",0,"Question not asked","training_others",5,0.75,399345,"I just wanted to make the best and most fair situation to myself. ","No",NA
+"173","id0196",0,"Question not asked","training_self",2,0.3,353681,"I wanted to accept any offer as by not accepting I wouldn't earn anything. ","No",NA
+"174","id0197",0,"Question not asked","training_others",5,0.75,287211,"Anything better or equal to half","yes","Best offer possible"
+"175","id0198",0,"Question not asked","training_self",0,0,542876,"The minimum amount that I accepted was $3","No",NA
+"176","id0199",0,"Question not asked","control",1,0.15,453699,"I accepted all offers because it made no sense to get no money at all.","no","na"
+"177","id0201",0,"Question not asked","control",0,0,268164,"I didn't accept any offer below $3","No",NA
+"178","id0202",0,"Question not asked","control",2,0.3,309449,"I essentially accepted all of the AI generated offers as I assume those are random. Anything under $2 for a human, and I rejected it. ","No",NA
+"179","id0203",0,"Question not asked","control",3,0.45,357220,"I tended to accept most offers as there is no bonus at all if I get zero!","no",NA
+"180","id0204",0,"Question not asked","training_others",5,0.75,343684,"I accepted all offers because if I rejected them I wouldn't earn anything.","no","to choose the better option"
+"181","id0205",0,"Question not asked","training_self",0,0,295967,"reject under 4 ","yes","na"
+"182","id0206",0,"Question not asked","training_self",4,0.6,271201,"If it was under $4, I generally didn't accept it.","No",NA
+"183","id0208",0,"Question not asked","training_others",0,0,342029,"If it was 50% or more in my favor.","No",NA
+"184","id0209",0,"Question not asked","control",3,0.45,408613,"I just rejected when the other player got more than two thirds of the money.","Yes",NA
+"185","id0210",0,"Question not asked","control",3,0.45,349365,"I accepted all offers so I would be guaranteed a bonus.","No",NA
+"186","id0211",0,"Question not asked","control",5,0.75,512092,"At first I was going to accept everything but me receiving $0 and $1, but then mid trial I rethought that and also began rejecting $2. Outside of those I would accept anything if I received $3 or more, regardless of human or AI.","I do not think so",NA
+"187","id0212",0,"Question not asked","training_others",5,0.75,416372,"Yes I did, I only accepted offers where I received an equal amount or a higher amount that my opponent ","NoN/A","N/A"
+"188","id0213",0,"Question not asked","training_self",5,0.75,638456,"No","No",NA
+"189","id0215",0,"Question not asked","training_self",6,0.9,331564,"As close to possible equal distribution ","No",NA
+"190","id0216",0,"Question not asked","control",0,0,295313,"no","no","n/a"
+"191","id0217",0,"Question not asked","training_others",3,0.45,352265,"i did it a bit differently this time - i chose to be a bit more lenient in what i accepted because i focused my goal on maximizing my own profit rather than worrying about the opponent. ","no",NA
+"192","id0219",0,"Question not asked","training_others",0,0,473883,"My only strategy was to accept offers that were as equal as possible. regardless of the other participant being human or AI.","No, I don't believe I've heard of the ultimatum game before.",NA
+"193","id0221",0,"Question not asked","training_self",5,0.75,277883,"I chose the options that would benefit me the most.","No",NA
+"194","id0223",0,"Question not asked","training_self",4,0.6,333454,"no","no",NA
+"195","id0224",0,"Question not asked","training_self",4,0.6,320912,"I chose to accept if the offer to me is 3 or 4 dollars.","No.",NA
+"196","id0225",0,"Question not asked","training_self",0,0,273315,"no","no",NA
+"197","id0226",0,"Question not asked","control",2,0.3,346466,"Always accept because > 0","no","na"
+"198","id0227",0,"Question not asked","control",4,0.6,348191,"No","No",NA
+"199","id0228",0,"Question not asked","control",0,0,300729,"I accepted it if it seem reasonable. I rejected the offer if I felt it was very unfair like if the split was 8-2.","Yes",NA
+"200","id0229",0,"Question not asked","training_others",5,0.75,576417,"Same as the last time, my strategy was to only accept fair or generous offers. Even though there wasn't an AI watching every offer, I still felt it was good to reward fair or generous behavior and punish selfish behavior.","No",NA
+"201","id0230",0,"Question not asked","training_self",0,0,426034,"No","No",NA
+"202","id0231",0,"Question not asked","training_self",6,0.9,559152,"I decided to reject only the extremely low offers ($1 or $2) and keep any amounts over $3","No","I haven't heard of it, but I think the strategy is to share what you would want the other person to share with you.  Otherwise, you may both get nothing and that's worse than splitting it 50/50.  But you may be able to keep a higher ratio, as long as you're not too greedy."
+"203","id0232",0,"Question not asked","training_others",5,0.75,342519,"I would rather accept them all even if I was only getting $1 because I would rather have us get some money than nothing.","no",NA
+"204","id0233",0,"Question not asked","training_others",4,0.6,383043,"always accepted to try and get a bonus","no",NA
+"205","id0234",0,"Question not asked","training_others",3,0.45,395594,"I accepted any offer that gave me $3 or more and rejected any lower than that.","No",NA
+"206","id0235",0,"Question not asked","control",3,0.45,273019,"I accepted most except for $1 earnings because they would be randomly selected anyway.","No",NA
+"207","id0236",0,"Question not asked","control",4,0.6,539420,"none","no",NA
+"208","id0237",0,"Question not asked","control",0,0,1282389,"knownledge and experience","no","it is the least offer"
+"209","id0238",0,"Question not asked","training_self",5,0.75,345235,"I chose the ones with the best outcome for both of us","no","na"
+"210","id0239",0,"Question not asked","training_self",6,0.9,309544,"i accepted the offers that gave me more","no","na"
+"211","id0240",0,"Question not asked","training_others",0,0,668114,"took my time to understand","yes",NA
+"212","id0241",0,"Question not asked","training_others",0,0,682549,"I wanted the most even splits","No","To choose one over the other, hard choices. "
+"213","id0242",0,"Question not asked","training_self",4,0.6,525356,"To accept everything was better than zero","no",NA
+"214","id0243",0,"Question not asked","control",1,0.15,361348,"I accepted all the offer.","no",NA
+"215","id0244",0,"Question not asked","control",6,0.9,364653,"Dont accept anything too low because hopefully the bot or the person will take the hint.","No","N/A"
+"216","id0245",0,"Question not asked","control",2,0.3,348802,"No strategy","no",NA
+"217","id0246",0,"Question not asked","training_others",0,0,412775,"i find no strategies choosing whether to accept or reject an offer",NA,NA
+"218","id0247",0,"Question not asked","control",4,0.6,362521,"I decided to accept all offers this time because some money no matter how small is better than no money","no",NA
+"219","id0248",0,"Question not asked","training_self",5,0.75,499902,"Since I wasn't training AI, I generally took whatever it offered because some bonus is better than none, although $1 seemed to really annoy me, so emotion creeped in when I rejected any $1 offer. I wanted to ""punish"" the human, but, again, I did want some bonus. I rejected $1 and $2, but got greedy at $3 and less commited to punishing.","no",NA
+"220","id0249",0,"Question not asked","control",6,0.9,301479,"Accept anything that is 2 or above for me","not sure",NA
+"221","id0250",0,"Question not asked","control",5,0.75,636248,"Yes, after the last experiment, I realized that I was cutting my amount short by rejecting offers.  I had no control over the offers other than I was rejecting them because the ""other player"" got more than I did.  This was a dumb reason to accept any offer, however small.  Small is better than zero and I don't need to make more than the other player.","No",NA
+"222","id0251",0,"Question not asked","control",4,0.6,274455,"Always accept. I'm only incentivized to accept every offer.","Yes",NA
+"223","id0252",0,"Question not asked","training_others",4,0.6,350991,"I only selected offers that were on the fair side.","No",NA
+"224","id0253",0,"Question not asked","training_self",0,0,250095,"Not really","No",NA
+"225","id0254",0,"Question not asked","training_others",4,0.6,353788,"I rejected anything lower than 3, not worth it","No I have not",NA
+"226","id0255",0,"Question not asked","training_others",0,0,334364,"I accepted anything above $2.  My bonus was on a rejected round so I should have just accepted them all ","No",NA
+"227","id0256",0,"Question not asked","training_others",0,0,359634,"I considered accepting every offer but I was unsure if that would result in the only getting offers of 9-1 and thus reducing my implied odds. I understand that these numbers were not used to train the AI for future assignments but i was unsure if the AI and Human players both would not adjust to my actions in this round specifically","No",NA
+"228","id0257",0,"Question not asked","training_self",6,0.9,398498,"Yes.  The objective to me seemed to be to earn money.  As long as I was being offered some money, I was inclined to accept the offer as some is better than none.  I would have rejected the offer if my opponent had kept all the money and gave me none.","No",NA
+"229","id0260",0,"Question not asked","training_self",5,0.75,276860,"I just went with my gut feeling this time","No",NA
+"230","id0261",0,"Question not asked","control",3,0.45,299220,"I had lowered my threshold from the previous experiment to be able to accept more offers. It did not matter to me who my opponent was.","No",NA
+"231","id0263",0,"Question not asked","control",4,0.6,287639,"no","no",NA
+"232","id0264",0,"Question not asked","control",6,0.9,889131,"I accepted a min of 4","no","na"
+"233","id0265",0,"Question not asked","training_others",4,0.6,324631,"I decided to accept anything that was at least a $6 to $4 split and reject anything less than that.","no",NA
+"234","id0267",0,"Question not asked","control",6,0.9,332462,"It's really to my benefit to accept everything because something is better than nothing. I only rejected $1 dollar offerings because that's just rude.","Nope",NA
+"235","id0268",0,"Question not asked","training_others",4,0.6,388568,"I accepted all offers","np",NA
+"236","id0269",0,"Question not asked","training_others",6,0.9,542109,"I just accepted them all because something is better than nothing","no",NA
+"237","id0270",0,"Question not asked","training_others",0,0,468561,"I had a standard I would accept of $3","No",NA
+"238","id0271",0,"Question not asked","training_self",0,0,362153,"rejected offers that were unfair to me","no",NA
+"239","id0272",0,"Question not asked","training_self",0,0,397220,"I rejected any offers that weren't a $5/$5 or $4/$6 split. I did not use who received the $6 as a criterion.","No",NA
+"240","id0273",0,"Question not asked","training_others",6,0.9,361270,"Any offer that gave me 4 or more I considered worth taking, any offer below that I didn't find to be worth it.","No",NA
+"241","id0274",0,"Question not asked","control",2,0.3,404649,"no","no",NA
+"242","id0275",0,"Question not asked","training_others",4,0.6,343699,"no","yes",NA
+"243","id0276",0,"Question not asked","training_self",6,0.9,320925,"Only accept when I am offered $4 or more","no",NA
+"244","id0277",0,"Question not asked","training_others",0,0,395518,"If it was over $7 for them to keep I rejected. ","No",NA
+"245","id0278",0,"Question not asked","training_self",4,0.6,410593,"I thought anything under $3 was way to unequitable","no",NA
+"246","id0279",0,"Question not asked","control",2,0.3,342985,"I accepted all offers because if I didn't, I would get $0.","No, I haven't.",NA
+"247","id0280",0,"Question not asked","control",4,0.6,442461,"Not really","No","No"
+"248","id0281",0,"Question not asked","training_others",6,0.9,339383,"If they wanted more than me I would decline most of those","No",NA
+"249","id0283",0,"Question not asked","control",0,0,464260,"For the most part, I accepted offers that gave me at least 4 dollars. It didn't matter to me if it was an AI or a human was offering.","No",NA
+"250","id0284",0,"Question not asked","training_others",4,0.6,281433,"anything above 3$","nope",NA
+"251","id0285",0,"Question not asked","control",5,0.75,735702,"if the decision was fair i will accept the offer.","NO",NA
+"252","id0286",0,"Question not asked","training_others",0,0,294423,"I only accepted offers that were fair.","No",NA
+"253","id0287",0,"Question not asked","training_self",6,0.9,773321,"I figured I should accept them all that way no matter which was randomly chosen I would get a bonus from something rather than rejecting some and having a bonus be 0","no",NA
+"254","id0288",0,"Question not asked","training_self",5,0.75,256958,"NO","NO",NA
+"255","id0289",0,"Question not asked","training_self",6,0.9,380211,"No","yes",NA
+"256","id0290",0,"Question not asked","training_others",6,0.9,360860,"Trying to earn the bonus while still taking offers that were close to being fair","no",NA
+"257","id0291",0,"Question not asked","training_others",3,0.45,343699,"accept all because rejecting any meant $0, whereas accepting them meant at least some money would be received for both me and the other participant","no",NA
+"258","id0292",0,"Question not asked","training_others",5,0.75,1211819,"I was focused on accepting offers where I received $3 or more.","No",NA
+"259","id0293",0,"Question not asked","training_others",4,0.6,294399,"My strategy was to accept at least $4 because it is almost fair.","No",NA
+"260","id0294",0,"Question not asked","training_self",6,0.9,268576,"Accept anything that wasn't just a dollar.","No.",NA
+"261","id0295",0,"Question not asked","training_self",0,0,470998,"Reject any offers where I receive $3 and less, as it seemed unfair.","No",NA
+"262","id0296",0,"Question not asked","control",0,0,498480,"I just went with my gut","no","na"
+"263","id0297",0,"Question not asked","training_others",4,0.6,434671,"I did not have any strategies today, I just sort of went with my gut.","No.",NA
+"264","id0298",0,"Question not asked","training_self",6,0.9,282909,"accepting  when the amount is close to even or more for me","No",NA
+"265","id0299",0,"Question not asked","control",5,0.75,370153,"I didn't accept any offers 2 and under.","no",NA
+"266","id0300",0,"Question not asked","training_others",0,0,369535,"not this time","No",NA
+"267","id0301",0,"Question not asked","control",5,0.75,657832,"I made my decision using a certain percentage. So I accept when the share is fair","No",NA
+"268","id0303",0,"Question not asked","control",3,0.45,374942,"I made sure that that I accepted fair offers and rejected ones that benefited the other participant or AI too much.","no",NA
+"269","id0304",0,"Question not asked","training_others",6,0.9,485132,"I did not choose any offers that had more than $2.00 between what my opponent was offering vs what I would then receive.","No",NA
+"270","id0305",0,"Question not asked","training_self",2,0.3,322927,"To accept most to all, based on how you awarded the previous survey.","No",NA
+"271","id0306",0,"Question not asked","training_self",0,0,446971,"         yes, I did not accept any offer from and below 3","no",NA
+"272","id0307",0,"Question not asked","training_self",0,0,391375,"none","no",NA
+"273","id0308",0,"Question not asked","control",6,0.9,381118,"I chose the offers that seemed fair to me (offers that would at least give me $3)","No",NA
+"274","id0309",0,"Question not asked","training_others",0,0,904680,"i went for more money for me","no","n/a"
+"275","id0310",0,"Question not asked","training_others",5,0.75,487982,"no","no","none"
+"276","id0311",0,"Question not asked","training_others",0,0,293301,"no strategy","no",NA
+"277","id0312",0,"Question not asked","control",0,0,439039,"I accepted the biggest offers","no","I have not heard about the ultimatum"
+"278","id0313",0,"Question not asked","control",1,0.15,301159,"I decided to accept all offers as I didn't want to lose the bonus.","No",NA
+"279","id0314",0,"Question not asked","training_others",5,0.75,460432,"Unless I was offered zero, I accepted.","no",NA
+"280","id0315",0,"Question not asked","control",1,0.15,479691,"I was more willing to accept a low offer from the human partner than from the AI, because rejecting the AI did not affect another person other than myself.","No","N/A"
+"281","id0316",0,"Question not asked","training_self",1,0.15,314231,"There was no reason to reject an offer since then I would get strictly less ($0)","Yes","Depends on if it will be repeated or not I'd guess."
+"282","id0317",0,"Question not asked","control",3,0.45,274061,"I always chose to maximize my payout, so I always accepted","no",NA
+"283","id0318",0,"Question not asked","control",2,0.3,268807,"I accepted all offers, as something is better than nothing","No","Accept no matter what"
+"284","id0319",0,"Question not asked","training_others",3,0.45,315403,"do not accept anything under 3","no","na"
+"285","id0320",0,"Question not asked","control",5,0.75,453689,"I only accepted $4 or more.  I thought that was fair.","no",NA
+"286","id0321",0,"Question not asked","control",5,0.75,385341,"Same strategy (or rule) as the first time: I accept only fair offer (>=$5 to me), regardless of participant","No",NA
+"287","id0322",0,"Question not asked","training_self",6,0.9,395688,"since i didn't win anything last time, I set a  lower threshold and accepted anything 2-8 or better. It paid off.","no","na"
+"288","id0323",0,"Question not asked","control",4,0.6,295712,"I accepted every other because some money is better than none.","no","na"
+"289","id0324",0,"Question not asked","training_others",6,0.9,344550,"No strategies","yes",NA
+"290","id0325",0,"Question not asked","control",3,0.45,500051,"I accepted every time. Something is better than nothing, no matter the amount.","No",NA
+"291","id0326",0,"Question not asked","control",0,0,599578,"I will not accept anything that is unfair.  I should get $5 minimum.  I'm willing to ruin other people's expectations in the process.  If I cannot get a fair deal then nobody gets anything.","No",NA
+"292","id0327",0,"Question not asked","training_self",4,0.6,622492,"So even though the AI has already been trained, there are still human programmer eyes on it. So I just treated the AI the same as the human partner. I accepted anything I thought was fair. Anything giving me at least $5 was fair. I also accepted $4 because I figured I could have gotten a greedy or immature partner as a human or just a glitch in the AI programming. I figured $4 is reasonable for having an immature human partner or an AI glitch. Anything less than $3 for me signals a fault in the AI training, so I rejected it in the hopes the programmers would fix the glitch. With the human, I felt the human was being greedy, and it was worth it to me to miss out the bonus money in order not to enable the greediness in the human.","no",NA
+"293","id0328",0,"Question not asked","training_others",2,0.3,356660,"Yes, I accepted all offers except a $1.00.","No","na"
+"294","id0329",0,"Question not asked","training_others",5,0.75,444850,"I reject the offers of $2 or lower as the return is not justified.","No",NA
+"295","id0330",0,"Question not asked","control",5,0.75,312888,"I tried to maximize my bonus. As I didn't really a choice on distribution, I simply accepted all of them even if the amount was low. If I were to reject, I would earn nothing and I wanted to earn at least something.","No","To take the ultimatum in any case?"
+"296","id0331",0,"Question not asked","control",3,0.45,517844,"I accepted $3 and up from my partner","no",NA
+"297","id0332",0,"Question not asked","training_others",0,0,582595,"rejected all the ones where it said I would get a lower offer than the other","no",NA
+"298","id0333",0,"Question not asked","control",4,0.6,548193,"No strategies was used.","No",NA
+"299","id0334",0,"Question not asked","training_self",6,0.9,458953,"I did not.","No.",NA
+"300","id0335",0,"Question not asked","training_self",4,0.6,900408,"I accepted anything over a $1","no","N/A"
+"301","id0336",0,"Question not asked","training_others",4,0.6,484285,"I decided to try a 60/40 split limit. Honestly, these don't seem to be human and seem ti have no ability to adjust to my consistent deal level. I think you are testing for greed levels as my wisest option is to accept every deal just to get the bonus. Just sayin..","no","na"
+"302","id0337",0,"Question not asked","training_others",5,0.75,379947,"I decided to only reject it if I was only being offered $1. I didn't want to reject very often though because I did not want to earn a bonus of 0 cents.","no",NA
+"303","id0338",0,"Question not asked","control",0,0,246853,"accept over 4 dollars","no","na"
+"304","id0339",0,"Question not asked","training_others",2,0.3,257505,"I wanted to maximize my return","no","na"
+"305","id0340",0,"Question not asked","control",6,0.9,350340,"I choose the amount i will benefit from","no",NA
+"306","id0341",0,"Question not asked","training_self",6,0.9,263728,"i chose deals that were fair","no","n/a"
+"307","id0342",0,"Question not asked","training_others",0,0,387643,"I wanted the offer to be either fair or advantageous to me.","Yes",NA
+"308","id0343",0,"Question not asked","training_others",6,0.9,373332,"I tried to accept the ones that had a fair trade off. If an offer was super balanced towards the other person or AI then I would decline it.","No, I have not.",NA
+"309","id0344",0,"Question not asked","training_self",6,0.9,311043,"I am still petty, I only accept if I am getting a  good share otherwise my opponenet is getting nothing too. ","No",NA
+"310","id0346",0,"Question not asked","control",3,0.45,280177,"I accepted any offer 2 dollars or more.","no",NA
+"311","id0347",0,"Question not asked","training_others",0,0,354475,"Not accepting anything less than $4","No","N/A"
+"312","id0348",0,"Question not asked","training_others",0,0,321952,"no","no","N/A"
+"313","id0349",0,"Question not asked","training_self",5,0.75,299865,"I would not accept anything less than $3. ","No, unless this is that game. I can't remember if this was the name of this game.",NA
+"314","id0350",0,"Question not asked","control",2,0.3,284242,"No strategies","No",NA

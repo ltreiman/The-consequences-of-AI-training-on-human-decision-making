@@ -1,0 +1,222 @@
+"","id","age","gender","training_condition","outcome","money_won","time_elapsed","strategy","know_ug","ug_strategy"
+"1","id0001",39,"female","training_others",6,0.3,714482,"I chose the offers with the highest amount for myself in order to keep the average of a randomly selected offer as high as possible.","no",NA
+"2","id0002",44,"female","training_others",5,0.25,655974,"I just went with my gut and what offers seemed more fair","No",NA
+"3","id0003",28,"male","training_others",3,0.15,307086,"I mostly wanted to accept all offers, because I don't gain anything from denying an offer and that offer not getting selected.","no",NA
+"4","id0004",39,"Male","control",3,0.15,402957,"I accepted all because i didn't see the point in rejecting for both parties to recieve nothing","no",NA
+"5","id0005",40,"Male","control",6,0.3,339312,"I would not accept anything lower than $3","No",NA
+"6","id0006",42,"Female","training_others",0,0,391837,"If they offered me $4 or more I accepted, otherwise they were just greedy and neither one of us got anything. ","No",NA
+"7","id0008",26,"Male","control",0,0,457110,"I tried to accept the offers that gave me a fair amount of money in comparison to what the other person or AI bot received in the offers and I rejected the offers where it seemed like the other person/AI got a lot more money then me","No I haven't",NA
+"8","id0009",21,"Female","training_others",0,0,388173,"If it was less than $2 for myself I would reject it.","No",NA
+"9","id0010",46,"Male","training_others",5,0.25,327135,"Being fair to both of us.","yes","To make the best outcome for you and your partner."
+"10","id0011",48,"Male","training_others",0,0,345637,"50/50 split or no go. ","Probably",NA
+"11","id0012",30,"male","control",4,0.2,267876,"yes accept all so we can get money!","no",NA
+"12","id0013",26,"Male","training_others",0,0,439124,"Since the AI was ""learning,"" I wanted to show it that I would not accept offers I felt were unfair, so that future participants would not be treated unfairly.","No",NA
+"13","id0014",36,"female","training_others",0,0,485500,"If either it was split evenly, or if it was 4/6, 6/4 I would accept. Anything that was completely unfair to me I would reject.","No",NA
+"14","id0015",30,"Male","control",4,0.2,438534,"I only wanted it to be fair share or at least close enough no matter who's side is getting an advantage or disadvantage.","Sounds familiar.",NA
+"15","id0016",39,"Male","training_others",0,0,453092,"I would accept up to a 40/60 split, but not 30/70.","No.",NA
+"16","id0017",21,"Female","training_others",0,0,332468,"I wanted a minimum of $4.","No",NA
+"17","id0018",25,"female","control",5,0.25,403881,"I just didn't choose unfair options for myself.","No",NA
+"18","id0019",45,"male","training_others",5,0.25,332146,"not really","no",NA
+"19","id0020",51,"female","training_others",0,0,485037,"yes, I would reject anything less than 3$","no",NA
+"20","id0021",30,"Male","training_others",6,0.3,398867,"I only accepted offers offering me $4 or more","No",NA
+"21","id0022",71,"female","control",4,0.2,463931,"yes.  To accept all offers that way I will get something versus maybe getting nothing.","no",NA
+"22","id0023",53,"female","control",0,0,1117295,"If the amount was less than 3 i rejected","no",NA
+"23","id0024",24,"MALE","training_others",0,0,442934,"NO","NO",NA
+"24","id0025",34,"Male","training_others",1,0.05,416809,"No",NA,NA
+"25","id0026",21,"Male","control",0,0,255153,"If I get more than 3 dollars, I accept","Nope",NA
+"26","id0027",51,"female","training_others",0,0,329960,"if it was closer to even, i accepted","no",NA
+"27","id0028",39,"FEMALE","control",0,0,386926,"NO","NO",NA
+"28","id0029",36,"male","training_others",0,0,586213,"If the difference was less than 2, i just rejected it.","yes","Not real sure..."
+"29","id0030",45,"female","control",0,0,391330,"I just felt like it should be as close to fair as possible. Maybe rejecting a low offer would shape the decisions of the other person to make better offers?","no",NA
+"30","id0031",29,"male","control",2,0.1,307911,"I accepted most ","No",NA
+"31","id0032",58,"male","training_others",0,0,349356,"a 2 dollar threshold basically","no",NA
+"32","id0033",39,"Male","control",2,0.1,351768,"No","No",NA
+"33","id0034",24,"Female","control",4,0.2,272646,"I accepted most offers to maximize chances of a payout","No",NA
+"34","id0036",40,"Male","training_others",6,0.3,453591,"I simply chose which offer would get me equal or more than the other.","No I haven't.","I believe it's best to only try to gain equal or more than your opponent."
+"35","id0037",26,"male","training_others",0,0,415066,"no I just went with what felt right.","no",NA
+"36","id0038",62,"female","training_others",4,0.2,499836,"Slow down","no","n/a"
+"37","id0039",25,"Female","control",4,0.2,316520,"I chose whether or not I felt that they were being greedy or generous.","no",NA
+"38","id0040",37,"male","control",4,0.2,498691,"Initially I decided that I should accept every offer, because I don't see why I would reject any when they could possibly be used for payment. However, I'm guessing this is not what was wanted, so I adjusted my strategy a bit and rejected offers that were especially bad.","no",NA
+"39","id0041",24,"Woman","control",6,0.3,340460,"In general if they offered me less than themselves, either the robot or the user I rejected. If they offered the same or more than I accepted. ","no",NA
+"40","id0042",38,"female","control",0,0,322135,"I accidentally selected one that was 5/5 as reject, and meant to select accept. I basically thought 3 and below for me I'd reject, above I'd accept. It didn't matter if it was a human or AI.","no",NA
+"41","id0043",44,"male","control",0,0,331804,"50-50 split or as close to it as possible","yes",NA
+"42","id0044",57,"female","control",5,0.25,470311,"anything 3 or over I would take","no",NA
+"43","id0045",63,"female","control",0,0,1201444,"I wanted dollar amount given to me to be higher","no","na"
+"44","id0046",62,"Female","training_others",4,0.2,414677,"If I rejected any offers, I would get nothing, so I accepted even small offers.","No","N/A"
+"45","id0047",19,"Male","training_others",0,0,290808,"Not really","No",NA
+"46","id0048",33,"Male","training_others",6,0.3,342263,"I only wanted to accept offers  that I thought were fair. If they only offered me 20% or less, then I usually rejected it.","No, I don't think so.",NA
+"47","id0049",23,"Male","control",1,0.05,384288,"I choose to accept every offer since a rejection would mean $0 for that round and a chance of that $0 round randomly being selected for bonus","no",NA
+"48","id0050",33,"male","control",0,0,454753,"based it on my outcome","no",NA
+"49","id0051",56,"male","training_others",2,0.1,454930,"Since if I rejected an offer, I got nothing, I chose to accept any offer over 0.","No",NA
+"50","id0052",35,"male","training_others",3,0.15,451351,"i just trusted my intuition","no","na"
+"51","id0053",46,"Female","training_others",4,0.2,401191,"If I was offered $3 or more I figured it was better than nothing so I accepted","No",NA
+"52","id0054",33,"Male","training_others",0,0,575103,"NO","NO","NO"
+"53","id0055",43,"Male","training_others",0,0,569220,"I was willing to accept a a 60/40 split but anything more for example 70/30, I didn't accept. Based on that, it didn't matter whether it was an AI or a human participant. ","No",NA
+"54","id0056",35,"male","training_others",6,0.3,310855,"No","No",NA
+"55","id0057",34,"male","control",4,0.2,310520,"n/a","No",NA
+"56","id0059",66,"Female","control",3,0.15,298002,"not really","no",NA
+"57","id0060",50,"male","control",0,0,348576,"If I was offered $2 or less I rejected it.","No.","Always accept unless I'm offered $0.  Something is better than nothing."
+"58","id0061",23,"Woman","control",0,0,331936,"If it was more money than they got ","No",NA
+"59","id0062",30,"Male","training_others",4,0.2,325415,"Tried to accept when it was even","No",NA
+"60","id0063",38,"Female","training_others",5,0.25,372742,"At first I wanted 50% or more.  Then I realized that rejecting it just costs me money so i began accepting them all. ","no",NA
+"61","id0064",39,"Male","training_others",4,0.2,430495,"I am looking to get paid regardless. I wanted to ensure some earnings","no",NA
+"62","id0065",48,"Male","control",5,0.25,425434,"I accepted unless the offer was really lopsided in the other's favor.","No.",NA
+"63","id0066",38,"female","training_others",0,0,680051,"I rejected their greed ","Maybe?",NA
+"64","id0067",42,"Male","training_others",0,0,793477,"I was looking for an amount closer to the average amount in the division of the money. ","I have not heard of it until now ",NA
+"65","id0068",55,"female","training_others",0,0,507873,"no","no","n/a"
+"66","id0069",28,"m","control",0,0,375427,"6/4 split was the lowest I was willing to go. I guess in the end I could have just accepted everything as getting something is better than nothing but I was spiteful.","no","go 50/50"
+"67","id0070",65,"male","control",0,0,405540,"decided part way thru to acccept any offer where i got a minimum of 3, when it was more lopsided felt it wasn't worth giving the other person so much","no","na"
+"68","id0071",33,"Female","training_others",5,0.25,249246,"I accepted all offers that would give me $3 or above.","No",NA
+"69","id0072",43,"MALE","training_others",0,0,340104,"I only accepted offers where I got the same or higher than the other person/AI","No",NA
+"70","id0073",25,"Male","training_others",2,0.1,251519,"No","Yes",NA
+"71","id0074",29,"Female","control",0,0,321764,"I established a threshold and did not compromise on that for any of the offers.","No",NA
+"72","id0075",48,"woman","training_others",4,0.2,387571,"I usually accepted an imbalance of $1 such as 4/6, but not more than that, such as 7/3, 8/2 etc. Ideally all would have been split 5/5. If I had been proposing, I would have always proposed equal splits.","No",NA
+"73","id0076",42,"male","control",5,0.25,329700,"As long as I got an amount, I accepted the offer no matter who it was.","no",NA
+"74","id0077",33,"Male","training_others",5,0.25,254346,"I always accepted unless there was going to be an offer where I got no money.","Yes",NA
+"75","id0078",38,"male","training_others",3,0.15,334837,"to accept any 3 and over for me","no",NA
+"76","id0079",28,"Male","control",0,0,271223,"If it was less than 4 I rejected","No",NA
+"77","id0080",55,"female","training_others",0,0,501251,"no I just wanted the split to be closer to even.","no",NA
+"78","id0081",33,"male","training_others",0,0,357388,"no","no","get 50/50 or more"
+"79","id0082",42,"male","training_others",0,0,1089369,"to get fair amount of more for myself and reject other offers","no","na"
+"80","id0083",36,"male","training_others",0,0,905672,"I just went for how much they were offering and based my answer on that. ","no","na"
+"81","id0084",36,"male","control",0,0,365103,"Anything over $2, I accepted. Anything under that seemed unfair. ","no",NA
+"82","id0085",34,"Male","control",4,0.2,321106,"I just chose what seemed to be mostly fair and equal.","no",NA
+"83","id0086",39,"male","control",6,0.3,512618,"Accept anything except when I'm offered only one dollar.","no",NA
+"84","id0087",54,"M","control",4,0.2,322640,"I did not reward human greed.","No","N/A"
+"85","id0088",33,"FEMALE","training_others",2,0.1,934951,"NO STRATEGY ","NO",NA
+"86","id0089",33,"male","training_others",0,0,396264,"I just went with my gut and a fair pay","no",NA
+"87","id0090",63,"female","training_others",0,0,677861,"to share the same amount or get the higher amount ","no","na"
+"88","id0091",46,"male","control",0,0,690382,"I would only accept offers if I would get at least $4 from the deal.  ","no",NA
+"89","id0092",36,"female","control",6,0.3,291432,"i tried to pick the option that benefited me in most cases","no","na"
+"90","id0093",68,"Male","training_others",2,0.1,421331,"I choose to accept all that had any amount of money involved.","No",NA
+"91","id0094",67,"Female","control",3,0.15,457672,"No","no","na"
+"92","id0095",53,"Male","training_others",5,0.25,592430,"I decided to accept offers with my share ranging from $4 to $9","Not really",NA
+"93","id0096",27,"male","control",0,0,333622,"I only chose ones that I thought were worth it","no",NA
+"94","id0097",34,"male","control",0,0,338533,"Always accepted AI because money means nothing to it","i have not","n/a"
+"95","id0098",27,"male","control",2,0.1,322199,"I always accepted the offer to avoid losing a potential bonus","no","na"
+"96","id0099",35,"Male","control",0,0,392558,"Quite simply I required an offer of at least 4 of the ten dollars--whether or not it was a human or AI coupling.","No","N/A"
+"97","id0100",57,"Female","control",6,0.3,354719,"I accepted most because some was better than none.","no",NA
+"98","id0101",38,"male","control",5,0.25,331594,"I rejected any offer that gave me less than $3","no","na"
+"99","id0102",41,"Male","training_others",4,0.2,456457,"I accept anything that gave me any money because I'm better off no matter how much the other person gets","no","na"
+"100","id0103",29,"female","control",0,0,272018,"a 6:4 split is the widest gap I would accept","no",NA
+"101","id0104",42,"Female","control",2,0.1,601132,"I accepted all the offers, but was willing to reject a $0 offer or $1.00 offer. Reason, just incase the $0 was selected at random. I just wanted some type of beneft even if it was low, incase that trial was the one chosen.","no","n/a"
+"102","id0105",38,"female ","training_others",5,0.25,470781,"tried to make it even ","yes ","To make them feel human "
+"103","id0106",65,"female","training_others",3,0.15,395697,"as long as I got more than $1 I accepted","no","na"
+"104","id0107",32,"Male","training_others",4,0.2,279861,"I accepted every offer, because at least I would earn something. Rejecting the offer means I earn nothing.","No",NA
+"105","id0108",49,"Male","training_others",0,0,432501,"I would accept anything more than a $1 offer","no",NA
+"106","id0109",41,"male","control",2,0.1,995526,"-","yes",NA
+"107","id0110",30,"Female","control",0,0,581884,"I had zero strategy other than rejecting offers lower than $3","No",NA
+"108","id0111",59,"Male","training_others",3,0.15,607317,"I accept all the offer because any offer I reject both of we will get $0. ","Yes I heard about ultimatum game but I do not know a lot of about of it.","The proposer is endowed with an amount of money, and suggests a division of that amount between herself and her responderThe responder observes the suggestion and then decides whether to accept or reject."
+"109","id0112",33,"Male","control",3,0.15,421775,"Accept anything over $1 from humans. Accept anything from AI","No",NA
+"110","id0113",35,"female","training_others",6,0.3,371437,"I accepted the offer as long as it was more than 0. I'd rather we get something than nothing.","no",NA
+"111","id0114",33,"male","control",6,0.3,408754,"Why reject at all? I understand you might want to spite them for the low ball offer, but something is still better than nothing.","no","na"
+"112","id0115",37,"male","training_others",4,0.2,396092,"I basically accepted most offer because getting something is better than nothing, however if an actually person was too greedy I would reject.","no",NA
+"113","id0116",58,"male","training_others",0,0,428015,"No real strategy","no","na"
+"114","id0117",70,"Female","training_others",0,0,455101,"There needed to be a small difference in the $$ offered for me to accept the offer..","no","n/a"
+"115","id0118",28,"Male","control",0,0,408770,"No","no",NA
+"116","id0119",24,"male","training_others",0,0,355242,"no","no",NA
+"117","id0120",67,"male","training_others",5,0.25,521710,"60-40 division was acceptable to me","no",NA
+"118","id0121",43,"Female","control",2,0.1,325853,"No, I just figured it would be better to accept any offer, rather than end up with $0. ","No.",NA
+"119","id0122",48,"male","training_others",0,0,607028,"I needed to get at least 4 for it to be worthwhile. Anything else felt unfair.","No",NA
+"120","id0123",49,"male","control",0,0,368175,"if the offer was less than 50% I didn't accept it","Yes","to try and get your opponent to make the right decision so that you both make money"
+"121","id0124",40,"male","training_others",6,0.3,379984,"If the amount was high enough than I accepted.","No",NA
+"122","id0125",30,"female","training_others",2,0.1,479046,"I didn't want the opposing person to earn high gains","no","na"
+"123","id0126",42,"Male","control",0,0,329174,"I took a minimum of $4, anything less I rejected.","No",NA
+"124","id0128",53,"female","control",1,0.05,329858,"to accept all or most","no","na"
+"125","id0129",33,"Female","training_others",0,0,465619,"I accepted all offers where I at least made $4, anything lower I rejected. ","yes",NA
+"126","id0130",53,"Female","training_others",0,0,408812,"I was going to reject any offer that was too far outside of what I considered 'fair'.  For me, that cutoff was more than $6 to either individual.","No",NA
+"127","id0131",25,"Female","control",2,0.1,304581,"Yes, I chose to accept offers where I received greater than $1 because at least I would receive something. If it was a $1 offer, I felt like the other person was too greedy.","No",NA
+"128","id0132",27,"Male","training_others",4,0.2,341197,"No strategy. I just picked options that wouldn't really lowball me. There were a few options that were pretty annoying, but losing out on 2 dollars isn't a big deal to me.","Nope",NA
+"129","id0133",20,"Female","training_others",6,0.3,310247,"The least amount of money I would take was $4","no","na"
+"130","id0134",49,"male","training_others",1,0.05,310222,"I accepted all offers, as rejecting would lead to no payoff.","no",NA
+"131","id0135",37,"Male","training_others",0,0,354504,"In general I only accepted offers where it was close to 50/50 or massively benefitted me","No",NA
+"132","id0136",57,"female","control",0,0,312295,"if the other person got a huge amount and I got little, I rejected it","no","unknown"
+"133","id0137",94,"female","control",0,0,446467,"no","no","na"
+"134","id0138",65,"female","control",5,0.25,418962,"yes trying to be as fair as possible on both sides","no","n/a"
+"135","id0139",65,"Female","training_others",0,0,660937,"I did not accept if I was offered less than $4.","No",NA
+"136","id0140",26,"Female","training_others",6,0.3,497910,"If the offer was too low I rejected","No",NA
+"137","id0141",29,"Non-binary","training_others",5,0.25,309364,"I accepted everything bc there was no advantage to rejecting. I would rather earn something than nothing","Yes",NA
+"138","id0142",27,"male","control",3,0.15,296075,"No i did not","no",NA
+"139","id0143",43,"male","training_others",3,0.15,346609,"If they offered 2 or less, I rejected","not sure",NA
+"140","id0144",43,"MALE","control",1,0.05,537323,"accept every offer, otherwise I'd get nothing","no",NA
+"141","id0145",65,"female","control",0,0,448092,"I tried to accept the ones that offered me at least 5","no",NA
+"142","id0146",29,"female","training_others",0,0,303934,"I accepted offers that offered at least $3","no",NA
+"143","id0147",33,"Male","control",2,0.1,1261834,"No, just accepted the fair offers","No",NA
+"144","id0148",65,"Male","control",5,0.25,490744,"I accepted every offer since rejecting an offer meant no one received any money.","No","N/A"
+"145","id0149",27,"male","training_others",1,0.05,314811,"there is no incentive to reject so i accepted all","no","na"
+"146","id0150",39,"Male","training_others",0,0,282324,"I wanted at least $4 from the split.","I don't think so",NA
+"147","id0151",55,"female","control",1,0.05,482064,"I figured that it was better to accept every offer, rather than both getting 0 and that one being selected.","no","na"
+"148","id0152",28,"female","training_others",0,0,366553,"no","yes","na"
+"149","id0154",51,"Female","training_others",1,0.05,427526,"I didn't at first. Overall I didn't want us to get zero, but on a few I rejected anythung under $2 from the AI, to possibly train it to give more. ","I am not sure.",NA
+"150","id0155",43,"Female","control",0,0,479423,"No","No",NA
+"151","id0156",67,"male","training_others",5,0.25,476303,"Yes my strategy is to accept any offers that do not create unfair feeling for my self.","no",NA
+"152","id0157",35,"female","control",4,0.2,376882,"for AI at or more than 7/3 reject, for human at or more than 8/2 reject","yes",NA
+"153","id0158",28,"male","control",6,0.3,405691,"I rejected the lowest ones.","no.",NA
+"154","id0159",28,"Male ","training_others",5,0.25,484977,"I decided to accept a 4 or above ","No",NA
+"155","id0160",71,"Normal woman","training_others",5,0.25,386861,"I accepted the ones that were 50/50 or close to that and I rejected the ones where I got way less than the other participant","No",NA
+"156","id0161",51,"female","training_others",5,0.25,361480,"none","no","N/A"
+"157","id0162",53,"Female","training_others",5,0.25,579685,"I chose to accept all offers in which the amount offered to me was equal or greater to the amount that my opponent chose to keep for themself. If the amount offered to me was lower than what my opponent wanted to keep for themself, I rejected the offer.","No",NA
+"158","id0163",46,"male","training_others",1,0.05,464514,"I accepted all due to rejecting meant no gain","no",NA
+"159","id0164",29,"MALE","training_others",2,0.1,453959,"NONE","NO","NO"
+"160","id0165",24,"Male","control",0,0,320026,"Just tried to win","No",NA
+"161","id0166",57,"MALE","training_others",0,0,415115,"yes,I cant accept anything below $3","no",NA
+"162","id0167",47,"female","control",5,0.25,336406,"I wouldn't accept anything less than $3 for me.","No",NA
+"163","id0168",30,"Male","training_others",3,0.15,384619,"If I was going to get more than $0, I would always accept.","No",NA
+"164","id0169",40,"Female","control",3,0.15,383356,"I chose to accept offers that seemed fair or fair enough.  I rejected wildly unfair offers but gave a bit more leeway to actual participants over AI as actual participants may need the money and AI does not.","No",NA
+"165","id0170",32,"male","control",4,0.2,406807,"I wouldn't accept anything below $2 ","No",NA
+"166","id0171",52,"Male","training_others",0,0,406827,"None","No",NA
+"167","id0172",19,"Male","training_others",0,0,306376,"I only chose offers where I got at least 30% or more of the the total money in the offer","No",NA
+"168","id0173",40,"female","control",0,0,329591,"If the offer was less than $4 for me, I rejected it.","no",NA
+"169","id0174",46,"Male","training_others",3,0.15,368964,"take anything semi fair","no",NA
+"170","id0175",41,"male","control",0,0,401684,"I rejected everything worse than a 70/30 split, regardless of the source.","I don't think so?",NA
+"171","id0176",30,"Female","control",4,0.2,457474,"I wanted to accept most offers without feeling taken advantage of. I would rather have 0 dollars than to be offered just 1 dollar while the other person gets 9.","No.",NA
+"172","id0177",27,"female","training_others",4,0.2,352181,"I like to look for a fair trade, though I would prefer50/50, 60/40 is the least ill accept.","no",NA
+"173","id0178",77,"male","control",1,0.05,491919,"I don't understand why I would reject any of the offers, since when I would reject no one receives money.","no",NA
+"174","id0179",30,"female","training_others",5,0.25,433409,"I just set a limit for myself i wasn't going to accept anything below 3 dollars","no",NA
+"175","id0180",33,"male","training_others",0,0,334558,"no just what i thought was reasonable","no",NA
+"176","id0181",34,"Female","training_others",5,0.25,333619,"No","No",NA
+"177","id0182",35,"MALE","control",4,0.2,335955,"tried to take everything close to fair, and up to 7 for them. 8 for them 2 for me was too much unfairness","not sure",NA
+"178","id0183",26,"male","control",2,0.1,486948,"no strategies","no","i have no idea"
+"179","id0184",42,"Male","training_others",0,0,524631,"If the differing amounts were to far apart, I would reject the offer.","No.",NA
+"180","id0185",68,"male","control",4,0.2,426380,"I accepted all offers unless they were zero for me.","No","N/A"
+"181","id0186",40,"male","training_others",5,0.25,402346,"I accepted all","yes","na"
+"182","id0188",56,"female","training_others",4,0.2,499164,"atfirst I rejected any low offers then decided that it it was a human I'd accept low offers as well, so we'd both get something.","no",NA
+"183","id0189",32,"female","control",3,0.15,383094,"I didn't want to reject an offer and not end up with any money.","No, I haven't.",NA
+"184","id0190",62,"female","control",1,0.05,360737,"I figured anything above $0 was acceptable as rejecting meant $0. I strongly preferred $5 and $5.","no",NA
+"185","id0192",41,"Male","training_others",0,0,488981,"For the most part I accepted everything where they were offering me atleast 30%","No",NA
+"186","id0193",45,"Male","control",5,0.25,743827,"I opted to accept any offer in which I received at least $3.","No.",NA
+"187","id0194",42,"male","control",3,0.15,353215,"As long as I was getting some money, I accepted","no",NA
+"188","id0195",37,"Male","control",4,0.2,342617,"I set a threshold part way through and wouldn't accept less than $3","No",NA
+"189","id0196",24,"Male","training_others",0,0,407022,"I accepted offers that were at least evenly split of $5 to me; if I am offered more I would accept as well. I might have accepted $4 for me at some point but in general I rejected anything below an even split for me.","No",NA
+"190","id0197",29,"f","control",0,0,323983,"no","no","na"
+"191","id0198",26,"female","training_others",0,0,285947,"I didn't choose outright unfair offers","yes",NA
+"192","id0199",30,"male","training_others",6,0.3,424036,"no","no",NA
+"193","id0200",71,"f","control",4,0.2,400767,"Accept everything","no","Accept only the highest offer?"
+"194","id0201",40,"male","training_others",0,0,341266,"I rejected anything where the participant kept 8$ or more","no","na"
+"195","id0203",57,"female","training_others",0,0,389961,"whether it seemed even a little fairly distributed","no",NA
+"196","id0204",33,"male","control",6,0.3,344063,"accept everything, it was still money gained","no","na"
+"197","id0205",23,"male","control",0,0,431008,"anything that would result in me getting less than 40% of the total i rejected because it meant that i was gettign a great deal less than half the money if i got 4$ i was willing to compromise","no",NA
+"198","id0206",39,"Male","control",6,0.3,329656,"I tried to only accept offers that gave a fair split.","No",NA
+"199","id0207",42,"Male","training_others",6,0.3,402905,"My strategy is to accept the offer if I receive a minimum of 40%.","No",NA
+"200","id0208",51,"female","control",0,0,381946,"accept if it was equal to or more than other","no",NA
+"201","id0209",37,"Man","training_others",2,0.1,809682,"No","No",NA
+"202","id0210",39,"Male","training_others",5,0.25,371867,"To get the best offer.","No",NA
+"203","id0211",57,"Male","training_others",1,0.05,538867,"In order to be fair I just accepted all the offer.","No",NA
+"204","id0212",50,"female","training_others",0,0,588111,"I had no strategy","no","To help train AI"
+"205","id0213",30,"Male","control",4,0.2,507925,"Just having a minimal threshold of acceptance of an amount, if the other was too greedy I wouldn't accept.","I haven't",NA
+"206","id0214",49,"Female","control",0,0,900458,"When the split was near even, even or in my favor I accepted","No",NA
+"207","id0215",26,"cisgender woman","control",2,0.1,270281,"I always accepted so I would get a bonus for sure.","No",NA
+"208","id0216",36,"f","control",0,0,1419070,"at least half of what the user was getting","no",NA
+"209","id0217",36,"cisgender male","control",1,0.05,443235,"I didn't see any reason to deny an offer, even if it was only for a $1. Anything I accept is more than nothing.","Yes","Accept"
+"210","id0218",48,"male","training_others",0,0,336360,"No","no","na"
+"211","id0219",37,"female","control",3,0.15,249283,"none","no","na"
+"212","id0220",64,"female","training_others",6,0.3,386918,"I was inclined to accept anything where I got over 1.00 and sometimes rejected anything 1.00.","no","N/A"
+"213","id0221",42,"Male","control",0,0,380297,"No I did not have any strategies ","No I did not",NA
+"214","id0222",59,"Male","training_others",0,0,380315,"Needed to be somewhat fair","No",NA
+"215","id0223",55,"male","training_others",6,0.3,455327,"Part way through I decided my minimum was 4.","no","na"
+"216","id0224",23,"Female","training_others",3,0.15,1234094,"No","No",NA
+"217","id0225",50,"male","control",0,0,304275,"treat me fair or better or i reject","no","na"
+"218","id0226",30,"Male","training_others",5,0.25,330919,"none","never","N/A"
+"219","id0227",52,"male","control",6,0.3,457108,"Rejecting the offer always results in me getting $0. Accepting the offer always results in me getting something. There was never any advantage to rejecting the offer other than retaliating against a bad offer and punishing the other side.","No",NA
+"220","id0228",20,"female","training_others",1,0.05,340705,"no","no","no"
+"221","id0229",37,"Female","control",4,0.2,360907,"None","No I have not.",NA
